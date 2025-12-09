@@ -15,6 +15,6 @@ Público: **20 pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/95-azure-arc-wsus/).
 
-![Aposentando seu WSUS com o Azure ARC](img/95-azure-arc-wsus/azure-arc-wsus-02.jpg)
+![Aposentando seu WSUS com o Azure ARC 1](img/95-azure-arc-wsus/azure-arc-wsus-02.jpg)
 
-![Aposentando seu WSUS com o Azure ARC](img/95-azure-arc-wsus/azure-arc-wsus-05.jpg)
+![Aposentando seu WSUS com o Azure ARC 2](img/95-azure-arc-wsus/azure-arc-wsus-05.jpg)

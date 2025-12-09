@@ -3,6 +3,8 @@ Fotos e informações das apresentações da trilha de Azure do MVPConf LATAM 20
 
 Tecnologias e tópicos abordados: **Docker, Kubernetes...**
 
+Público total (estimativa): **20 pessoas**
+
 ## 25/10/2025 (sábado)
 
 ### Aposentando seu WSUS com o Azure ARC

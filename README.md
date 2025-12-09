@@ -11,4 +11,8 @@ Palestrante: **Andre Luiz Mattos Oliveira (Microsoft MVP)**
 
 Tecnologias abordadas: **Azure Arc, Windows Server, Azure VMs...**
 
-Público:
+Público: **20 pessoas**
+
+![Aposentando seu WSUS com o Azure ARC](img/95-azure-arc-wsus/azure-arc-wsus-02.jpg)
+
+![Aposentando seu WSUS com o Azure ARC](img/95-azure-arc-wsus/azure-arc-wsus-05.jpg)

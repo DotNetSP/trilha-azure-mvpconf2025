@@ -8,3 +8,7 @@ Tecnologias e tópicos abordados: **Docker, Kubernetes...**
 ### Aposentando seu WSUS com o Azure ARC
 
 Palestrante: **Andre Luiz Mattos Oliveira (Microsoft MVP)**
+
+Tecnologias abordadas: **Azure Arc, Windows Server, Azure VMs...**
+
+Público:

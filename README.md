@@ -25,6 +25,11 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/30-
 
 ## 25/10/2025 (sábado)
 
+### Ambientes Dinâmicos com Terraform e Azure DevOps
+
+Palestrante: **Gustavo Bigardi (Microsoft MVP)**
+
+
 ### Hacking Azure - Cloud Security Session
 
 Palestrante: **André Melancia (Microsoft Certified Trainer)**

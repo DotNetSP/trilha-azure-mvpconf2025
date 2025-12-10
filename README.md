@@ -1,9 +1,25 @@
 # trilha-azure-mvpconf2025
 Fotos e informações das apresentações da trilha de Azure do MVPConf LATAM 2025.
 
-Tecnologias e tópicos abordados: **Docker, Kubernetes, Azure Arc, Azure VMs, Azure Storage, Windows Server, SQL Server, Azure Backup, Microsoft Entra ID...**
+Tecnologias e tópicos abordados: **Docker, Kubernetes, Linux Azure Arc, Azure Local, Azure VMs, Azure Storage, Windows Server, SQL Server, Azure Backup, Microsoft Entra ID...**
 
-Público total (estimativa): **85 pessoas**
+Público total (estimativa): **115 pessoas**
+
+## 24/10/2025 (sexta)
+
+### Infraestrutura moderna com Azure Local e Azure Arc
+
+Palestrantes: **Elton Bordim (Microsoft MVP)**
+
+Tecnologias abordadas: **Azure Local, Azure Arc, Kubernetes, Linux...**
+
+Público: **30 pessoas**
+
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/30-infra-moderna-azure-local/).
+
+![Infraestrutura moderna 1](img/30-infra-moderna-azure-local/elton-01.jpeg)
+
+![Infraestrutura moderna 2](img/30-infra-moderna-azure-local/elton-03.jpeg)
 
 ## 25/10/2025 (sábado)
 

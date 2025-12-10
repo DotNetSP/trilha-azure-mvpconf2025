@@ -3,7 +3,7 @@ Fotos e informações das apresentações da trilha de Azure do MVPConf LATAM 20
 
 Tecnologias e tópicos abordados: **Docker, Kubernetes, Linux Azure Arc, Azure Local, Azure VMs, Azure Storage, Windows Server, SQL Server, Azure Backup, Microsoft Entra ID...**
 
-Público total (estimativa): **115 pessoas**
+Público total (estimativa): **130 pessoas**
 
 ## 24/10/2025 (sexta)
 
@@ -38,6 +38,22 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/90-
 ![Migrando sua Infraestrutura 1](img/90-migracao-nuvem/migracao-nuvem-06.jpg)
 
 ![Migrando sua Infraestrutura 2](img/90-migracao-nuvem/migracao-nuvem-13.jpg)
+
+---
+
+### Azure para Recuperação de Desastres: o caso da enchente no Rio Grande do Sul
+
+Palestrante: **Diego Moreira Matos (Microsoft MVP)**
+
+Tecnologias e tópicos abordados: **Azure VMs, Windows Server, Linux, Azure Storage, Azure Well-Architected Framework...**
+
+Público: **15 pessoas**
+
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/92-recuperacao-desastres/).
+
+![Recuperação de Desastres 1](img/92-recuperacao-desastres/recuperacao-desastres-01.jpg)
+
+![Recuperação de Desastres 2](img/92-recuperacao-desastres/recuperacao-desastres-04.jpg)
 
 ---
 

@@ -21,6 +21,8 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/90-
 
 ![Migrando sua Infraestrutura 2](img/90-migracao-nuvem/migracao-nuvem-13.jpg)
 
+---
+
 ### Aposentando seu WSUS com o Azure ARC
 
 Palestrante: **Andre Luiz Mattos Oliveira (Microsoft MVP)**

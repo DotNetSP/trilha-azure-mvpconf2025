@@ -1,7 +1,7 @@
 # trilha-azure-mvpconf2025
 Fotos e informações das apresentações da trilha de Azure do MVPConf LATAM 2025.
 
-Tecnologias e tópicos abordados: **Docker, Kubernetes, Azure VMs, Azure Storage, Windows Server, SQL Server, Azure Backup, Microsoft Entra ID...**
+Tecnologias e tópicos abordados: **Docker, Kubernetes, Azure Arc, Azure VMs, Azure Storage, Windows Server, SQL Server, Azure Backup, Microsoft Entra ID...**
 
 Público total (estimativa): **85 pessoas**
 

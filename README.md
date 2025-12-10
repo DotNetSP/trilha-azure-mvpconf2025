@@ -21,6 +21,8 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/30-
 
 ![Infraestrutura moderna 2](img/30-infra-moderna-azure-local/elton-03.jpeg)
 
+---
+
 ## 25/10/2025 (sábado)
 
 ### Migrando sua Infraestrutura para Nuvem - Projeto Real

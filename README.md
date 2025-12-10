@@ -3,7 +3,7 @@ Fotos e informações das apresentações da trilha de Azure do MVPConf LATAM 20
 
 Tecnologias e tópicos abordados: **Docker, Kubernetes, Linux Azure Arc, Azure Local, Azure VMs, Azure Storage, Windows Server, SQL Server, Azure Backup, Microsoft Entra ID...**
 
-Público total (estimativa): **130 pessoas**
+Público total (estimativa): **146 pessoas**
 
 ## 24/10/2025 (sexta)
 

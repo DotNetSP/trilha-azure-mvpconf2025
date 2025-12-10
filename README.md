@@ -25,11 +25,27 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/30-
 
 ## 25/10/2025 (sábado)
 
+### Hacking Azure - Cloud Security Session
+
+Palestrante: **André Melancia (Microsoft Certified Trainer)**
+
+Tecnologias abordadas: **Azure Managed Identities, Azure Key Vault, Microsoft Entra ID...**
+
+Público: **16 pessoas**
+
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/85-hacking-azure/).
+
+![Migrando sua Infraestrutura 1](img/85-hacking-azure/hacking-azure-09.jpg)
+
+![Migrando sua Infraestrutura 2](img/85-hacking-azure/hacking-azure-14.jpg)
+
+---
+
 ### Migrando sua Infraestrutura para Nuvem - Projeto Real
 
 Palestrantes: **Francisco José Ferreira (Microsoft MVP) / Maycon Alves (Microsoft MVP)**
 
-Tecnologias abordadas: **Azure VMs, Azure Storage, Windows Server, SQL Server, Azure Backup, Microsoft Entra ID...**
+Tecnologias e tópicos abordados: **Azure VMs, Azure Storage, Windows Server, SQL Server, Azure Backup, Microsoft Entra ID...**
 
 Público: **65 pessoas**
 

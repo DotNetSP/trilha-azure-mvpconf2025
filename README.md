@@ -7,6 +7,18 @@ Público total (estimativa): **146 pessoas**
 
 ## 24/10/2025 (sexta)
 
+### “Olha mãe, sem senhas!” - Como utilizar Managed Identity no Azure
+
+Palestrantes: **Vinicius Deschamps (Microsoft MVP)**
+
+Tecnologias abordadas: **?????**
+
+Público: **?? pessoas**
+
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/01-managed-identity/).
+
+---
+
 ### Infraestrutura moderna com Azure Local e Azure Arc
 
 Palestrantes: **Elton Bordim (Microsoft MVP)**

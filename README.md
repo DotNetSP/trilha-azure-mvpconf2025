@@ -34,7 +34,7 @@ Público: **35 pessoas**
 
 ---
 
-### Chega de sofrer com Kubernetes: como escalar containers com simplicidade com Azure Container Apps!
+### Chega de sofrer com Kubernetes: como escalar containers com simplicidade com Azure Container Apps!XXXXXXXXXXXXXXXXXXXX ACERTAR
 
 Palestrante: **Guilherme Maia (Microsoft MVP)**
 
@@ -95,6 +95,32 @@ Palestrante: **Rodrigo Tavares**
 ---
 
 ## 25/10/2025 (sábado)
+
+### GreenOps: da Fundação à Inovação Sustentável na Cloud Azure
+
+Palestrante: **Rafael Martin Alves Ferreira (Microsoft MVP)**
+
+---
+
+### Azure Front Door na Arquitetura Global xxxxxxxxxxxxxxxxxxxxxxxxxxxx FALTA ACERTAR
+
+Palestrante: **Ana Carolina Manzan (Microsoft MVP)**
+
+---
+
+### Blue-Green Deployment no Azure App Service
+
+Palestrantes:
+- **Ana Carolina Manzan (Microsoft MVP)**
+- **Renicius Pagotto (Microsoft MVP)**
+
+---
+
+### Azure VMWare Solution XXXXXXXXXXXXXXXXXXXX falta acertar
+
+Palestrante: **Daniel Ribeiro (Microsoft)**
+
+---
 
 ### Descomplicando Migrações Cloud
 

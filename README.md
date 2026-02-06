@@ -120,6 +120,8 @@ Palestrantes:
 
 Palestrante: **Daniel Ribeiro (Microsoft)**
 
+Público: **32 pessoas**
+
 ---
 
 ### Descomplicando Migrações Cloud

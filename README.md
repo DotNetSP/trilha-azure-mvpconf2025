@@ -33,7 +33,19 @@ Público: **35 pessoas**
 
 ---
 
-### Chega de sofrer com Kubernetes: 
+### Chega de sofrer com Kubernetes: como escalar containers com simplicidade com Azure Container Apps!
+
+Palestrante: **Guilherme Maia (Microsoft MVP)**
+
+Público: **39 pessoas**
+
+Tecnologias e tópicos abordados: **Azure Container Apps, Docker, Kubernetes, Azure Kubernetes Service, Linux...**
+
+---
+
+### Message Broker com Azure Service Bus
+
+Palestrante: **Felipe Augusto (Microsoft MVP)**
 
 ---
 

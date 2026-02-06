@@ -8,6 +8,7 @@ Público total (estimativa): **146 pessoas**
 Apoio:
 - Thiago Bertuzzi (dia 24)
 - Lucas Massena (dias 24 e 25)
+- Gustavo Bellini Bigardi (dias 24 e 25)
 
 ## 24/10/2025 (sexta)
 

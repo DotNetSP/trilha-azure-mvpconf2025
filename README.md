@@ -96,6 +96,12 @@ Palestrante: **Rodrigo Tavares**
 
 ## 25/10/2025 (sábado)
 
+### Descomplicando Migrações Cloud
+
+Palestrante: **Everaldo Oliveira da Silva (MTAC)**
+
+---
+
 ### Ambientes Dinâmicos com Terraform e Azure DevOps
 
 Palestrante: **Gustavo Bigardi (Microsoft MVP)**
@@ -103,6 +109,12 @@ Palestrante: **Gustavo Bigardi (Microsoft MVP)**
 Público: **?? pessoas**
 
 Tecnologias abordadas: **Microsoft Azure, Azure DevOps, Azure Pipelines, Linux, Terraform, Infrastructure as Code (IaC)...**
+
+---
+
+### FinOps no Azure, por onde começar?
+
+Palestrante: **Rafael Alves Amaral**
 
 ---
 

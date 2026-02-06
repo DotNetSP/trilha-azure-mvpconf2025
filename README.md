@@ -16,7 +16,7 @@ Apoio:
 
 Palestrante: **Vinicius Deschamps (Microsoft MVP)**
 
-Tecnologias e tópicos abordados: **Microsoft Entra ID, Microsoft Azure, Managed Identity, Cybsersecurity...**
+Tecnologias e tópicos abordados: **Microsoft Entra ID, Microsoft Azure, Managed Identity, Cybersecurity...**
 
 Público: **55 pessoas**
 

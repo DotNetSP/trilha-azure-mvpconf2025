@@ -47,6 +47,10 @@ Tecnologias e tópicos abordados: **Azure Container Apps, Docker, Kubernetes, Az
 
 Palestrante: **Felipe Augusto (Microsoft MVP)**
 
+Público: **32 pessoas**
+
+Tecnologias e tópicos abordados: **Azure Service Bus, Azure Functions, .NET, Serverless, Messaging, Microservices...**
+
 ---
 
 ### Infraestrutura moderna com Azure Local e Azure Arc

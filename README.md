@@ -59,6 +59,11 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/30-
 
 Palestrante: **Gustavo Bigardi (Microsoft MVP)**
 
+Público: **?? pessoas**
+
+Tecnologias abordadas: **Microsoft Azure, Azure DevOps, Azure Pipelines, Linux, Terraform, Infrastructure as Code (IaC)...**
+
+---
 
 ### Hacking Azure - Cloud Security Session
 

@@ -82,6 +82,18 @@ Público: **68 pessoas**
 
 ---
 
+### Microsoft Entra Private Access em ação: o fim da VPN como você conhece!
+
+Palestrante: **Raphael Andrade (Microsoft MVP)**
+
+---
+
+### Desvendando o Azure Functions: Java vs TypeScript vs C# na prática
+
+Palestrante: **Rodrigo Tavares**
+
+---
+
 ## 25/10/2025 (sábado)
 
 ### Ambientes Dinâmicos com Terraform e Azure DevOps

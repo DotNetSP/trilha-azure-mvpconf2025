@@ -13,9 +13,9 @@ Apoio:
 
 ### “Olha mãe, sem senhas!” - Como utilizar Managed Identity no Azure
 
-Palestrantes: **Vinicius Deschamps (Microsoft MVP)**
+Palestrante: **Vinicius Deschamps (Microsoft MVP)**
 
-Tecnologias abordadas: **?????**
+Tecnologias e tópicos abordados: **Microsoft Entra ID, Microsoft Azure, Managed Identity, Cybsersecurity...**
 
 Público: **55 pessoas**
 
@@ -23,9 +23,17 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/01-
 
 ---
 
-Lucas Massena
+### Event-Driven da forma correta com Azure, Service Bus e Functions
 
-35 pessoas
+Palestrante: **Lucas Massena**
+
+Tecnologias e tópicos abordados: **Azure Service Bus, Azure Functions, .NET, Serverless, Event-Driven Architecture, Messaging...**
+
+Público: **35 pessoas**
+
+---
+
+### Chega de sofrer com Kubernetes: 
 
 ---
 

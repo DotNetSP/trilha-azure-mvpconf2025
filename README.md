@@ -51,7 +51,7 @@ Palestrante: **Felipe Augusto (Microsoft MVP)**
 
 ### Infraestrutura moderna com Azure Local e Azure Arc
 
-Palestrantes: **Elton Bordim (Microsoft MVP)**
+Palestrante: **Elton Bordim (Microsoft MVP)**
 
 Tecnologias abordadas: **Azure Local, Azure Arc, Kubernetes, Linux...**
 
@@ -62,6 +62,18 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/30-
 ![Infraestrutura moderna 1](img/30-infra-moderna-azure-local/elton-01.jpeg)
 
 ![Infraestrutura moderna 2](img/30-infra-moderna-azure-local/elton-03.jpeg)
+
+---
+
+### Governança e Segurança em APIs REST: tirando o melhor proveito de APIs Gateways!
+
+Palestrantes:
+- **Renato Groffe (Microsoft MVP, Docker Captain, APIsec U Ambassador, MTAC)**
+- **Angelo Belchior (Microsoft MVP, MTAC)**
+
+Tecnologias abordadas: **API Gateways, Azure API Management, OpenAPI, .NET, ASP.NET Core, Segurança em APIs, Microsoft Entra ID, REST APIs, SOAP XML, Redis, Cloud Computing, DevSecOps, Containers, Inteligência Artificial, MCP...**
+
+Público: **68 pessoas**
 
 ---
 

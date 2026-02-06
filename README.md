@@ -13,7 +13,7 @@ Palestrantes: **Vinicius Deschamps (Microsoft MVP)**
 
 Tecnologias abordadas: **?????**
 
-Público: **?? pessoas**
+Público: **55 pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/01-managed-identity/).
 

@@ -19,6 +19,12 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/01-
 
 ---
 
+Lucas Massena
+
+35 pessoas
+
+---
+
 ### Infraestrutura moderna com Azure Local e Azure Arc
 
 Palestrantes: **Elton Bordim (Microsoft MVP)**

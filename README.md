@@ -64,22 +64,6 @@ Tecnologias e tópicos abordados: **Azure Service Bus, Azure Functions, .NET, Se
 
 ---
 
-### Infraestrutura moderna com Azure Local e Azure Arc
-
-Palestrante: **Elton Bordim (Microsoft MVP)**
-
-Tecnologias abordadas: **Azure Local, Azure Arc, Kubernetes, Linux...**
-
-Público: **30 pessoas**
-
-Para acessar todas as fotos desta apresentação clique neste [**link**](img/30-infra-moderna-azure-local/).
-
-![Infraestrutura moderna 1](img/30-infra-moderna-azure-local/elton-01.jpeg)
-
-![Infraestrutura moderna 2](img/30-infra-moderna-azure-local/elton-03.jpeg)
-
----
-
 ### Governança e Segurança em APIs REST: tirando o melhor proveito de APIs Gateways!
 
 Palestrantes:
@@ -95,6 +79,22 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/20-
 ![API Gateways 1](img/20-api-gateways/api-gateways-16.jpg)
 
 ![API Gateways 2](img/20-api-gateways/api-gateways-31.jpg)
+
+---
+
+### Infraestrutura moderna com Azure Local e Azure Arc
+
+Palestrante: **Elton Bordim (Microsoft MVP)**
+
+Tecnologias abordadas: **Azure Local, Azure Arc, Kubernetes, Linux...**
+
+Público: **30 pessoas**
+
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/30-infra-moderna-azure-local/).
+
+![Infraestrutura moderna 1](img/30-infra-moderna-azure-local/elton-01.jpeg)
+
+![Infraestrutura moderna 2](img/30-infra-moderna-azure-local/elton-03.jpeg)
 
 ---
 

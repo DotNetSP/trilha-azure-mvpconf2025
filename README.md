@@ -32,6 +32,12 @@ Tecnologias e tópicos abordados: **Azure Service Bus, Azure Functions, .NET, Se
 
 Público: **35 pessoas**
 
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/05-event-driven/).
+
+![Event-Driven 1](img/05-event-driven/event-driven-25.jpg)
+
+![Event-Driven 2](img/05-event-driven/event-driven-14.jpg)
+
 ---
 
 ### Chega de sofrer com Kubernetes: como escalar containers com simplicidade com Azure Container Apps!XXXXXXXXXXXXXXXXXXXX ACERTAR

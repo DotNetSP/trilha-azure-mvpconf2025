@@ -122,7 +122,7 @@ Palestrante: **Rodrigo Tavares**
 
 Palestrante: **Rafael Martin Alves Ferreira (Microsoft MVP)**
 
-Público: **?? pessoas**
+Público: **8 pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/55-greenops/).
 

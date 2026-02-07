@@ -122,6 +122,14 @@ Palestrante: **Rodrigo Tavares**
 
 Palestrante: **Rafael Martin Alves Ferreira (Microsoft MVP)**
 
+Público: **?? pessoas**
+
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/55-greenops/).
+
+![GreenOps 1](img/55-greenops/greenops-05.jpg)
+
+![GreenOps 2](img/55-greenops/greenops-04.jpg)
+
 ---
 
 ### Azure Front Door na Arquitetura Global xxxxxxxxxxxxxxxxxxxxxxxxxxxx FALTA ACERTAR

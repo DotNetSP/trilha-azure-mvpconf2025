@@ -144,6 +144,12 @@ Palestrante: **Daniel Ribeiro (Microsoft)**
 
 Público: **32 pessoas**
 
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/57-azure-vmware/).
+
+![Azure VMWare 1](img/57-azure-vmware/azure-vmware-03.jpg)
+
+![Azure VMWare 2](img/57-azure-vmware/azure-vmware-08.jpg)
+
 ---
 
 ### Descomplicando Migrações Cloud

@@ -62,6 +62,12 @@ Público: **32 pessoas**
 
 Tecnologias e tópicos abordados: **Azure Service Bus, Azure Functions, .NET, Serverless, Messaging, Microservices...**
 
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/15-azure-service-bus/).
+
+![Message Broker 1](img/15-azure-service-bus/azure-service-bus-14.jpg)
+
+![API Gateways 2](img/15-azure-service-bus/azure-service-bus-19.jpg)
+
 ---
 
 ### Governança e Segurança em APIs REST: tirando o melhor proveito de APIs Gateways!

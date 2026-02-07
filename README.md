@@ -22,6 +22,10 @@ Público: **55 pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/01-managed-identity/).
 
+![Managed Identity 1](img/01-managed-identity/managed-identity-28.jpg)
+
+![Managed Identity 2](img/01-managed-identity/managed-identity-21.jpg)
+
 ---
 
 ### Event-Driven da forma correta com Azure, Service Bus e Functions

@@ -90,6 +90,12 @@ Tecnologias abordadas: **API Gateways, Azure API Management, OpenAPI, .NET, ASP.
 
 Público: **68 pessoas**
 
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/20-api-gateways/).
+
+![API Gateways 1](img/20-api-gateways/api-gateways-16.jpg)
+
+![API Gateways 2](img/20-api-gateways/api-gateways-31.jpg)
+
 ---
 
 ### Microsoft Entra Private Access em ação: o fim da VPN como você conhece!

@@ -169,7 +169,7 @@ Tecnologias abordadas: **??????...**
 
 ---
 
-### Azure VMWare Solution XXXXXXXXXXXXXXXXXXXX falta acertar
+### Azure VMware Solution: acelerando a modernização de Data Centers com Escalabilidade e Agilidade na nuvem
 
 Palestrante: **Daniel Ribeiro (Microsoft)**
 

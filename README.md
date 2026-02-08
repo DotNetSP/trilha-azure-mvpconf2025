@@ -188,6 +188,14 @@ Público: **?? pessoas**
 
 Tecnologias abordadas: **Microsoft Azure, Azure DevOps, Azure Pipelines, Linux, Terraform, Infrastructure as Code (IaC)...**
 
+Público: **?? pessoas**
+
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/75-terraform/).
+
+![Terraform 1](img/75-terraform/terraform-16.jpg)
+
+![Terraform 2](img/75-terraform/terraform-11.jpg)
+
 ---
 
 ### FinOps no Azure, por onde começar?

@@ -1,9 +1,15 @@
 # trilha-azure-mvpconf2025
 Fotos e informações das apresentações da trilha de Azure do MVPConf LATAM 2025.
 
+Coordenadores:
+- **Renato Groffe (Microsoft MVP, Docker Captain, APIsec U Ambassador, MTAC)**
+- **Diego Matos (Microsoft MVP)**
+- **Milton Camara Gomes (Microsoft MVP)**
+
+
 Tecnologias e tópicos abordados: **Docker, Kubernetes, Linux Azure Arc, Azure Local, Azure VMs, Azure Storage, Windows Server, SQL Server, Azure Backup, Microsoft Entra ID...**
 
-Público total (estimativa): **146 pessoas**
+Público total (estimativa): **?? pessoas**
 
 Apoio:
 - Thiago Bertuzzi (dia 24)

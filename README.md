@@ -215,7 +215,7 @@ Palestrante: **Everaldo Oliveira da Silva (MTAC)**
 
 Tecnologias abordadas: **Azure VMs, Windows, Linux...**
 
-Público: **?? pessoas**
+Público: **33 pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/70-descomplicando-migracoes/).
 

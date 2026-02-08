@@ -121,7 +121,15 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/30-
 
 Palestrante: **Rodrigo Tavares**
 
-Tecnologias abordadas: **??...**
+Tecnologias abordadas: **Azure Functions, C#, Java, TypeScript, Windows, Linux, Docker, Containers, Serverless, Application Insights, Azure Monitor...**
+
+Público: **18 pessoas**
+
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/35-azure-functions/).
+
+![Azure Functions 1](img/35-azure-functions/azure-functions-01.jpg)
+
+![Azure Functions 2](img/35-azure-functions/azure-functions-04.jpg)
 
 ---
 

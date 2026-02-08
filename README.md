@@ -48,9 +48,9 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/05-
 
 Palestrante: **Guilherme Maia (Microsoft MVP)**
 
-Público: **39 pessoas**
-
 Tecnologias e tópicos abordados: **Azure Container Apps, Docker, Kubernetes, Azure Kubernetes Service, Linux...**
+
+Público: **39 pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/10-azure-container-apps/).
 
@@ -64,9 +64,9 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/10-
 
 Palestrante: **Felipe Augusto (Microsoft MVP)**
 
-Público: **32 pessoas**
-
 Tecnologias e tópicos abordados: **Azure Service Bus, Azure Functions, .NET, Serverless, Messaging, Microservices...**
+
+Público: **32 pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/15-azure-service-bus/).
 
@@ -114,11 +114,15 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/30-
 
 Palestrante: **Raphael Andrade (Microsoft MVP)**
 
+Tecnologias abordadas: **??...**
+
 ---
 
 ### Desvendando o Azure Functions: Java vs TypeScript vs C# na prática
 
 Palestrante: **Rodrigo Tavares**
+
+Tecnologias abordadas: **??...**
 
 ---
 
@@ -128,9 +132,9 @@ Palestrante: **Rodrigo Tavares**
 
 Palestrante: **Rafael Martin Alves Ferreira (Microsoft MVP)**
 
-Público: **8 pessoas**
-
 Tecnologias abordadas: **??????...**
+
+Público: **8 pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/55-greenops/).
 
@@ -144,6 +148,8 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/55-
 
 Palestrante: **Ana Carolina Manzan (Microsoft MVP)**
 
+Tecnologias abordadas: **??????...**
+
 ---
 
 ### Blue-Green Deployment no Azure App Service
@@ -152,15 +158,17 @@ Palestrantes:
 - **Ana Carolina Manzan (Microsoft MVP)**
 - **Renicius Pagotto (Microsoft MVP)**
 
+Tecnologias abordadas: **??????...**
+
 ---
 
 ### Azure VMWare Solution XXXXXXXXXXXXXXXXXXXX falta acertar
 
 Palestrante: **Daniel Ribeiro (Microsoft)**
 
-Público: **32 pessoas**
-
 Tecnologias abordadas: **??????...**
+
+Público: **32 pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/57-azure-vmware/).
 
@@ -174,9 +182,9 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/57-
 
 Palestrante: **Everaldo Oliveira da Silva (MTAC)**
 
-Público: **?? pessoas**
-
 Tecnologias abordadas: **??????...**
+
+Público: **?? pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/70-descomplicando-migracoes/).
 
@@ -190,9 +198,9 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/70-
 
 Palestrante: **Gustavo Bigardi (Microsoft MVP)**
 
-Público: **?? pessoas**
-
 Tecnologias abordadas: **Microsoft Azure, Azure DevOps, Azure Pipelines, Linux, Terraform, Infrastructure as Code (IaC)...**
+
+Público: **?? pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/75-terraform/).
 

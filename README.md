@@ -200,7 +200,7 @@ Palestrante: **Gustavo Bigardi (Microsoft MVP)**
 
 Tecnologias abordadas: **Microsoft Azure, Azure DevOps, Azure Pipelines, Linux, Terraform, Infrastructure as Code (IaC)...**
 
-Público: **?? pessoas**
+Público: **28 pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/75-terraform/).
 
@@ -214,7 +214,7 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/75-
 
 Palestrante: **Rafael Alves Amaral**
 
-Tecnologias abordadas: **??????...**
+Tecnologias abordadas: **FinOps, Azure Cost Management, Billing Scopes, Cost Alerts...**
 
 Público: **?? pessoas**
 

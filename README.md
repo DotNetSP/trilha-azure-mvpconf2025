@@ -130,6 +130,8 @@ Palestrante: **Rafael Martin Alves Ferreira (Microsoft MVP)**
 
 Público: **8 pessoas**
 
+Tecnologias abordadas: **??????...**
+
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/55-greenops/).
 
 ![GreenOps 1](img/55-greenops/greenops-05.jpg)
@@ -158,6 +160,8 @@ Palestrante: **Daniel Ribeiro (Microsoft)**
 
 Público: **32 pessoas**
 
+Tecnologias abordadas: **??????...**
+
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/57-azure-vmware/).
 
 ![Azure VMWare 1](img/57-azure-vmware/azure-vmware-03.jpg)
@@ -171,6 +175,8 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/57-
 Palestrante: **Everaldo Oliveira da Silva (MTAC)**
 
 Público: **?? pessoas**
+
+Tecnologias abordadas: **??????...**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/70-descomplicando-migracoes/).
 

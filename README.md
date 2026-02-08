@@ -52,6 +52,12 @@ Público: **39 pessoas**
 
 Tecnologias e tópicos abordados: **Azure Container Apps, Docker, Kubernetes, Azure Kubernetes Service, Linux...**
 
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/10-azure-container-apps/).
+
+![Container Apps 1](img/10-azure-container-apps/azure-container-apps-06.jpg)
+
+![Container Apps 2](img/10-azure-container-apps/azure-container-apps-02.jpg)
+
 ---
 
 ### Message Broker com Azure Service Bus

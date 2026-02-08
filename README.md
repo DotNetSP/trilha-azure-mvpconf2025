@@ -137,7 +137,7 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/40-
 
 ![Microsoft Entra Private Access 1](img/40-entra/entra-12.jpg)
 
-![Microsoft Entra Private Access 2](img/30-infra-moderna-azure-local/elton-03.jpeg)
+![Microsoft Entra Private Access 2](img/40-entra/entra-04.jpg)
 
 ---
 

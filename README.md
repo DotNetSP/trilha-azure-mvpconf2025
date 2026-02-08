@@ -200,6 +200,16 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/75-
 
 Palestrante: **Rafael Alves Amaral**
 
+Tecnologias abordadas: **??????...**
+
+Público: **?? pessoas**
+
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/80-finops/).
+
+![Migrando sua Infraestrutura 1](img/80-finops/finops-09.jpg)
+
+![Migrando sua Infraestrutura 2](img/80-finops/finops-04.jpg)
+
 ---
 
 ### Hacking Azure - Cloud Security Session

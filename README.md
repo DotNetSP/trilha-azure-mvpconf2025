@@ -173,7 +173,7 @@ Tecnologias abordadas: **??????...**
 
 Palestrante: **Daniel Ribeiro (Microsoft)**
 
-Tecnologias abordadas: **??????...**
+Tecnologias abordadas: **Azure VMware Solution, Azure VMs, Windows Server, Linux...**
 
 Público: **32 pessoas**
 

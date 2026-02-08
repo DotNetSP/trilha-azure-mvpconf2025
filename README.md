@@ -117,19 +117,27 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/30-
 
 ---
 
-### Microsoft Entra Private Access em ação: o fim da VPN como você conhece!
-
-Palestrante: **Raphael Andrade (Microsoft MVP)**
-
-Tecnologias abordadas: **??...**
-
----
-
 ### Desvendando o Azure Functions: Java vs TypeScript vs C# na prática
 
 Palestrante: **Rodrigo Tavares**
 
 Tecnologias abordadas: **??...**
+
+---
+
+### Microsoft Entra Private Access em ação: o fim da VPN como você conhece!
+
+Palestrante: **Raphael Andrade (Microsoft MVP)**
+
+Tecnologias abordadas: **Microsoft Entra Private Access, Azure Networking, Defender, Cybersecurity, VPN...**
+
+Público: **40 pessoas**
+
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/40-entra/).
+
+![Microsoft Entra Private Access 1](img/40-entra/entra-12.jpg)
+
+![Microsoft Entra Private Access 2](img/30-infra-moderna-azure-local/elton-03.jpeg)
 
 ---
 
@@ -189,7 +197,7 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/57-
 
 Palestrante: **Everaldo Oliveira da Silva (MTAC)**
 
-Tecnologias abordadas: **??????...**
+Tecnologias abordadas: **Azure VMs, Windows, Linux...**
 
 Público: **?? pessoas**
 

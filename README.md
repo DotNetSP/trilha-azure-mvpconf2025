@@ -170,6 +170,14 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/57-
 
 Palestrante: **Everaldo Oliveira da Silva (MTAC)**
 
+Público: **?? pessoas**
+
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/70-descomplicando-migracoes/).
+
+![Migrações Cloud 1](img/70-descomplicando-migracoes/descomplicando-migracoes-05.jpg)
+
+![Migrações Cloud 2](img/70-descomplicando-migracoes/descomplicando-migracoes-01.jpg)
+
 ---
 
 ### Ambientes Dinâmicos com Terraform e Azure DevOps

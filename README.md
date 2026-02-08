@@ -11,6 +11,7 @@ Tecnologias e tópicos abordados: **Docker, Kubernetes, Linux Azure Arc, Azure L
 
 Público total (estimativa): **?? pessoas**
 
+ACERTAR ISSO
 Apoio:
 - Thiago Bertuzzi (dia 24)
 - Lucas Massena (dias 24 e 25)
@@ -50,7 +51,7 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/05-
 
 ---
 
-### Chega de sofrer com Kubernetes: como escalar containers com simplicidade com Azure Container Apps!XXXXXXXXXXXXXXXXXXXX ACERTAR
+### Chega de sofrer com Kubernetes: como escalar containers com simplicidade com Azure Container Apps
 
 Palestrante: **Guilherme Maia (Microsoft MVP)**
 
@@ -150,7 +151,7 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/55-
 
 ---
 
-### Azure Front Door na Arquitetura Global xxxxxxxxxxxxxxxxxxxxxxxxxxxx FALTA ACERTAR
+### Azure Front Door na Arquitetura Global: Otimizando Roteamento, Segurança e Escalabilidade
 
 Palestrante: **Ana Carolina Manzan (Microsoft MVP)**
 

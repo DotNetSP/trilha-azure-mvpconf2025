@@ -216,7 +216,7 @@ Palestrante: **Rafael Alves Amaral**
 
 Tecnologias abordadas: **FinOps, Azure Cost Management, Billing Scopes, Cost Alerts...**
 
-Público: **?? pessoas**
+Público: **25 pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/80-finops/).
 

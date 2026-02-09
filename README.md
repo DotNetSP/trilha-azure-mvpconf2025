@@ -11,7 +11,7 @@ Auxiliaram também na organização da trilha:
 - **Gustavo Bellini Bigardi (Microsoft MVP) - dias 24 e 25/10/2025 (sexta e sábado)**
 - **Lucas Massena - dias 24 e 25/10/2025 (sexta e sábado)**
 
-Tecnologias e tópicos abordados: **???????????????????????**
+Tecnologias e tópicos abordados: **Azure API Management, API Gateways, Azure App Service, Azure Arc, Azure Backup, Azure Container Apps, Azure Cost Management, Azure DevOps, Azure Front Door, Azure Functions, Azure Key Vault, Azure Kubernetes Service, Azure Local, Azure Managed Identities, Azure Application Insights, Azure Monitor, Azure Networking, Azure Pipelines, Azure Service Bus, Azure Storage, Azure VMs, Azure VMware Solution, Azure Well-Architected Framework, Billing Scopes, Blue-Green Deployments, .NET, ASP.NET Core, C#, Carbon Optimization, Cloud Computing, Containers, Cybersecurity, Defender, DevOps, Docker, Event-Driven Architecture, FinOps, GitHub Actions, GreenOps, Infrastructure as Code (IaC), Inteligência Artificial, Java, Kubernetes, Linux, Managed Identity, MCP, Messaging, Microservices, Microsoft Azure, Microsoft Cloud for Sustainability, Microsoft Entra ID, Microsoft Entra Private Access, OpenAPI, Redis, REST APIs, Segurança em APIs, Serverless, SOAP XML, SQL Server, Terraform, TypeScript, VPN, Web Application Firewall, Windows, Windows Server...**
 
 Público total (estimativa): **581 pessoas**
 - **24/10/2025 (sexta-feira): 317 pessoas**

@@ -1,4 +1,4 @@
-# trilha-azure-mvpconf2025
+# MVPConf LATAM 2025 - Trilha Azure
 Fotos e informações das apresentações da trilha de Azure do MVPConf LATAM 2025 (evento que aconteceu nos dias 24 e 25/10/2025 - sexta e sábado).
 
 Coordenadores:

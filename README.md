@@ -11,7 +11,7 @@ Auxiliaram também na organização da trilha:
 - **Gustavo Bellini Bigardi (Microsoft MVP) - dias 24 e 25/10/2025 (sexta e sábado)**
 - **Lucas Massena - dias 24 e 25/10/2025 (sexta e sábado)**
 
-Tecnologias e tópicos abordados: **Docker, Kubernetes, Linux Azure Arc, Azure Local, Azure VMs, Azure Storage, Windows Server, SQL Server, Azure Backup, Microsoft Entra ID...???????????????????????**
+Tecnologias e tópicos abordados: **???????????????????????**
 
 Público total (estimativa): **581 pessoas**
 - **24/10/2025 (sexta-feira): 317 pessoas**

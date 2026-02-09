@@ -173,6 +173,14 @@ Palestrante: **Ana Carolina Manzan (Microsoft MVP)**
 
 Tecnologias abordadas: **??????...**
 
+Público: **?? pessoas**
+
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/60-azure-front-door/).
+
+![Azure VMWare 1](img/60-azure-front-door/azure-front-door-07.jpg)
+
+![Azure VMWare 2](img/60-azure-front-door/azure-front-door-08.jpg)
+
 ---
 
 ### Blue-Green Deployment no Azure App Service
@@ -183,7 +191,7 @@ Palestrantes:
 
 Tecnologias abordadas: **Azure App Service, Blue-Green Deployments, GitHub Actions, Windows, Linux, Containers, Docker...**
 
-Público: **32 pessoas**
+Público: **?? pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/63-blue-green-app-service/).
 

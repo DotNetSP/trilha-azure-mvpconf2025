@@ -15,7 +15,7 @@ Tecnologias e tópicos abordados: **Docker, Kubernetes, Linux Azure Arc, Azure L
 
 Público total (estimativa): **FALTA COMPLETAR pessoas**
 - **24/10/2025 (sexta-feira): 317 pessoas**
-- **25/10/2025 (sábado): 317 pessoas**
+- **25/10/2025 (sábado): ?? pessoas**
 
 ## 24/10/2025 (sexta-feira)
 
@@ -79,7 +79,7 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/15-
 
 ![Message Broker 1](img/15-azure-service-bus/azure-service-bus-14.jpg)
 
-![API Gateways 2](img/15-azure-service-bus/azure-service-bus-19.jpg)
+![Message Broker 2](img/15-azure-service-bus/azure-service-bus-19.jpg)
 
 ---
 

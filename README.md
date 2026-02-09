@@ -1,5 +1,5 @@
 # trilha-azure-mvpconf2025
-Fotos e informações das apresentações da trilha de Azure do MVPConf LATAM 2025.
+Fotos e informações das apresentações da trilha de Azure do MVPConf LATAM 2025 (evento que aconteceu nos dias 24 e 25/10/2025 - sexta e sábado).
 
 Coordenadores:
 - **Renato Groffe (Microsoft MVP, Docker Captain, APIsec U Ambassador, MTAC)**
@@ -14,10 +14,10 @@ Auxiliaram também na organização da trilha:
 Tecnologias e tópicos abordados: **Docker, Kubernetes, Linux Azure Arc, Azure Local, Azure VMs, Azure Storage, Windows Server, SQL Server, Azure Backup, Microsoft Entra ID...???????????????????????**
 
 Público total (estimativa): **FALTA COMPLETAR pessoas**
-- x
-- 7
+- **24/10/2025 (sexta-feira): 317 pessoas**
+- **25/10/2025 (sábado): 317 pessoas**
 
-## 24/10/2025 (sexta)
+## 24/10/2025 (sexta-feira)
 
 ### “Olha mãe, sem senhas!” - Como utilizar Managed Identity no Azure
 

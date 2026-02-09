@@ -172,7 +172,7 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/55-
 
 Palestrante: **Ana Carolina Manzan (Microsoft MVP)**
 
-Tecnologias abordadas: **??????...**
+Tecnologias abordadas: **Azure Front Door, Azure App Service, Azure VMs, Web Application Firewall, Azure Well-Architected Framework...**
 
 Público: **11 pessoas**
 

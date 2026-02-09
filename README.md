@@ -6,16 +6,17 @@ Coordenadores:
 - **Diego Matos (Microsoft MVP)**
 - **Milton Camara Gomes (Microsoft MVP)**
 
+Auxiliaram também na organização da trilha:
+- **Thiago Bertuzzi (Microsoft MVP) - dia 24/10/2025 (sexta)**
+- **Gustavo Bellini Bigardi (Microsoft MVP) - dias 24 e 25/10/2025 (sexta e sábado)**
+- **Lucas Massena - dias 24 e 25/10/2025 (sexta e sábado)**
 
-Tecnologias e tópicos abordados: **Docker, Kubernetes, Linux Azure Arc, Azure Local, Azure VMs, Azure Storage, Windows Server, SQL Server, Azure Backup, Microsoft Entra ID...**
+Tecnologias e tópicos abordados: **Docker, Kubernetes, Linux Azure Arc, Azure Local, Azure VMs, Azure Storage, Windows Server, SQL Server, Azure Backup, Microsoft Entra ID...???????????????????????**
 
 Público total (estimativa): **?? pessoas**
 
 ACERTAR ISSO
 Apoio:
-- Thiago Bertuzzi (dia 24)
-- Lucas Massena (dias 24 e 25)
-- Gustavo Bellini Bigardi (dias 24 e 25)
 
 ## 24/10/2025 (sexta)
 

@@ -13,9 +13,9 @@ Auxiliaram também na organização da trilha:
 
 Tecnologias e tópicos abordados: **Docker, Kubernetes, Linux Azure Arc, Azure Local, Azure VMs, Azure Storage, Windows Server, SQL Server, Azure Backup, Microsoft Entra ID...???????????????????????**
 
-Público total (estimativa): **FALTA COMPLETAR pessoas**
+Público total (estimativa): **581 pessoas**
 - **24/10/2025 (sexta-feira): 317 pessoas**
-- **25/10/2025 (sábado): ?? pessoas**
+- **25/10/2025 (sábado): 264 pessoas**
 
 ## 24/10/2025 (sexta-feira)
 

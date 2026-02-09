@@ -177,9 +177,9 @@ Público: **11 pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/60-azure-front-door/).
 
-![Azure VMWare 1](img/60-azure-front-door/azure-front-door-07.jpg)
+![Azure Front Door 1](img/60-azure-front-door/azure-front-door-07.jpg)
 
-![Azure VMWare 2](img/60-azure-front-door/azure-front-door-08.jpg)
+![Azure Front Door 2](img/60-azure-front-door/azure-front-door-08.jpg)
 
 ---
 

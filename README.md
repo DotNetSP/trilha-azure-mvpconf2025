@@ -155,7 +155,7 @@ Para acessar todas as fotos desta apresentação clique neste [**link**](img/40-
 
 Palestrante: **Rafael Martin Alves Ferreira (Microsoft MVP)**
 
-Tecnologias abordadas: **??????...**
+Tecnologias abordadas: **GreenOps, Microsoft Cloud for Sustainability, DevOps, Azure Monitor, Application Insights, Carbon Optimization, FinOps, Azure Cost Management, Kubernetes, Azure Kubernetes Service...**
 
 Público: **8 pessoas**
 

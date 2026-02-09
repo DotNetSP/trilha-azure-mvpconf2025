@@ -173,7 +173,7 @@ Palestrante: **Ana Carolina Manzan (Microsoft MVP)**
 
 Tecnologias abordadas: **??????...**
 
-Público: **?? pessoas**
+Público: **11 pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/60-azure-front-door/).
 
@@ -189,9 +189,9 @@ Palestrantes:
 - **Ana Carolina Manzan (Microsoft MVP)**
 - **Renicius Pagotto (Microsoft MVP)**
 
-Tecnologias abordadas: **Azure App Service, Blue-Green Deployments, GitHub Actions, Windows, Linux, Containers, Docker...**
+Tecnologias abordadas: **Azure App Service, DevOps, Blue-Green Deployments, GitHub Actions, Windows, Linux, Containers, Docker...**
 
-Público: **?? pessoas**
+Público: **11 pessoas**
 
 Para acessar todas as fotos desta apresentação clique neste [**link**](img/63-blue-green-app-service/).
 
